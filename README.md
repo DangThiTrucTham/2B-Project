@@ -16,7 +16,7 @@ Lam Hoang Xuan Yen
 
 ## Flow Chart
 The operational workflow of the syringe pump is depicted below:
-![Flow chart](https://github.com/user-attachments/assets/3358709c-f967-438e-9e6f-b413d5b04623)
+![flow chart](https://github.com/user-attachments/assets/b3f3d458-134b-4689-9413-fe715ee7041e)
 
 ## Block Diagram
 The system's core components and interactions are outlined here:
