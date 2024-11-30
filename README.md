@@ -4,15 +4,23 @@ This project centers on the development of a syringe pump designed for medical a
 
 ## Highlights of the Design:
 Customizable flow rates to meet various treatment requirements.
+
 Intuitive controls to streamline operation for healthcare professionals.
+
 Portable and compact structure, enabling use in diverse medical settings.
+
 
 ## Group Members
 Nguyen Ngoc My Phuong
+
 Nguyen Tran Uyen Nhi
+
 Pham Thai Nhat Thanh
+
 Dang Thi Truc Tham
+
 Lam Hoang Xuan Yen
+
 
 ## Flow Chart
 The operational workflow of the syringe pump is depicted below:
